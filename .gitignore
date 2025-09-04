@@ -1,8 +1,8 @@
 # Development files
-_source/
-_test/
-_test*.*
-_todo.txt
+/_source/
+/_test/
+/_test*.*
+/_todo.txt
 /.scratch
 
 # Build
